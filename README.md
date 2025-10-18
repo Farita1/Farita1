@@ -2,21 +2,20 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Farita1">Juan David Perez Villalobos<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Soy <a href="https://github.com/Farita1">Juan David Perez Villalobos<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>About Me! 😎</h1>
+<h1>Acerca de mi! 😎</h1>
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+- 🏫: Estoy en 8vo semestre de Ingeniería de sistemas.
+- 🔭: Actualmente estoy trabajando en muchos proyectos pequeños de Analitica de datos.
+- 🌱: Actualmente estoy aprendiendo Machine Learning. 🧠💻🤖
+- 🤔: Pensar en que colocar*! 😅
+- 💬: Pregúntame sobre algoritmos de análisis de datos, visualización y aprendizaje automático. 📊📈🤖🧠
+- ⚡  Dato Curioso: ¡Me gusta ir al gimnasio porque me ayuda a mantener mi disciplina! ⚽🎾🎹
   
 <hr>
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
+<h1 align="center">¡Contáctame! 📬</h1>
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-david-perez-villalobos-288778273/" target="blank"><img align="center" src="https://img.shields.io/badge/Juan David Perez Villalobos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:jdavidp304@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jdavidp304@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Farita1" target="blank"><img align="center" src="https://img.shields.io/badge/Farita1-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -25,23 +24,33 @@
 <Br>
 <hr>
 <Br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
+<h1 align="center">¡Mis Habilidades! 🤸‍♂</h1>
 <Br>
-  
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+<div align="center">
+
+| ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+|---|---|---|---|
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Insomnia](https://img.shields.io/badge/INSOMNIA-4000BF?style=for-the-badge&logo=insomnia&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) |  |  |
+
+</div>
+
   
   
 <Br>
 <hr>
 <Br>
-<h1>Tools I use! 🛠️</h1>
+<h1>Aprendiendo 📚🛠️</h1>
 <Br>
  
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
+
+<div align="center">
+
+| ![Data Analysis](https://img.shields.io/badge/DATA%20ANALYSIS-in%20progress-yellow?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557c?style=for-the-badge&logo=plotly&logoColor=white) | ![Seaborn](https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge&logo=python&logoColor=white) |
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+| ![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-in%20progress-orange?style=for-the-badge&logo=python&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white) | ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+
+</div>
+
   
 
 <Br>
