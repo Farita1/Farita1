@@ -89,13 +89,14 @@
 <Br>
 <hr>
 <Br>
-<h1>A Little Joke at the End! 🤣</h1>
+<h1>Una pequeña broma 🤣</h1>
 <Br>
 <div align="center">
-<img width="217" height="232" alt="image" src="https://github.com/user-attachments/assets/4f53de25-d8e2-4d30-99cf-1d5f5091a75c" />
 <div/>
   
-  
+  ![02-3-61ae1f5b5ed00__700-61af736ed3733__700](https://github.com/user-attachments/assets/9b805d00-ba53-4a14-9a95-4199fb4579d4)
+
+
 <Br>
 <hr>
 <Br>
