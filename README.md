@@ -9,7 +9,7 @@
 - 🏫: Estoy en 8vo semestre de Ingeniería de sistemas.
 - 🔭: Actualmente estoy trabajando en muchos proyectos pequeños de Analitica de datos.
 - 🌱: Actualmente estoy aprendiendo Machine Learning. 🧠💻🤖
-- 🤔: Pensar en que colocar*! 😅
+- 🤔: Tengo conocimientos en desarrollo web
 - 💬: Pregúntame sobre algoritmos de análisis de datos, visualización y aprendizaje automático. 📊📈🤖🧠
 - ⚡  Dato Curioso: ¡Me gusta ir al gimnasio porque me ayuda a mantener mi disciplina! ⚽🎾🎹
   
