@@ -56,30 +56,34 @@
 <Br>
 <hr>
 <Br>
-<h1>Some of my Projects! 🎨</h1>
+<h1>¡Algunos de mis proyectos! 🎨</h1>
 <Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+
+<p>
+  <a href="https://themis-front.vercel.app/">
+    <img width="249" height="249" alt="themis-logo-2-white-DYt0VwAT" src="https://github.com/user-attachments/assets/25d5ec96-7121-4e47-84e5-ca4e85c6fe79" />
+  </a>
+</p>
 
 <Br>
 <hr>
 <Br>
-<h1>Certifications! 🏆</h1>
+<h1>Certificados! 🏆</h1>
 <Br>
-  
-|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
-|---|---|---|---|
-|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
+
+<div align="center">
+
+| [![](https://img.shields.io/badge/Universidad%20Python-Cero%20a%20Experto-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.udemy.com/certificate/UC-307e69d2-9d6b-42de-8856-6c17cf4be067/) | [![](https://img.shields.io/badge/Python%20para%20Data%20Science%20%26%20Machine%20Learning-in%20progress-yellow?style=for-the-badge&logo=python&logoColor=white)](https://www.udemy.com/course/python-para-data-science/?couponCode=CM251226G1) |
+|---|---|
+
+</div>
   
  
 
+
 <Br>
 <hr>
 <Br>
-<h1>GitHub Stats! 📊</h1>
-<Br>
-  
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
 
  
 <Br>
@@ -87,12 +91,12 @@
 <Br>
 <h1>A Little Joke at the End! 🤣</h1>
 <Br>
-  
-<img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg"/>
-  
+<div align="center">
+<img width="217" height="232" alt="image" src="https://github.com/user-attachments/assets/4f53de25-d8e2-4d30-99cf-1d5f5091a75c" />
+<div/>
   
   
 <Br>
 <hr>
 <Br>
-<h1>Thank You! 🤵 </h1>
+<h1>¡Muchas Gracias! 🤵 </h1>
