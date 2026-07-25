@@ -6,7 +6,7 @@
 <Br>
 <h1>Acerca de mi! 😎</h1>
 
-- 🏫: Estoy en 8vo semestre de Ingeniería de sistemas.
+- 🏫: Estoy en 9no semestre de Ingeniería de sistemas.
 - 🔭: Actualmente estoy trabajando en muchos proyectos pequeños de Analitica de datos.
 - 🌱: Actualmente estoy aprendiendo Machine Learning. 🧠💻🤖
 - 🤔: Tengo conocimientos en desarrollo web
